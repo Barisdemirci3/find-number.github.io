@@ -12,6 +12,6 @@ The aim of the project is as follows; The algorithm generates a random number be
 <img src="https://i.hizliresim.com/44ds167.png">
 <b>If you entered a big value ;</b>
 <img src="https://i.hizliresim.com/fnm7n3l.png">
-<b>If you know the number! ;</b>
+<b>If you find the number! ;</b>
 <img src="https://i.hizliresim.com/tcpxnzx.png">
 
